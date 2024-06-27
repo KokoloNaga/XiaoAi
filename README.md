@@ -18,4 +18,5 @@
 
 根据用户标签，知识图谱过滤出备选菜单，结合标签与食品适宜的症状、疾病实体为备选食品排序，并采用推荐算法对食品进行重排，向用户推荐食品。
 
+![image](https://github.com/KokoloNaga/Paper/assets/88781172/5fcbc0fc-a278-4734-be39-e45987bf20d7)
 ![image](https://github.com/KokoloNaga/XiaoAi/assets/88781172/88a86b03-db6a-4084-9050-9df475c33686)
